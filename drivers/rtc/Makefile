@@ -1,0 +1,1 @@
+obj-$(CONFIG_RTC_DRV_PCF8563)	+= rtc-pcf8563.o
